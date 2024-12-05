@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "41Yj+K4ppJlNDlu44mk7WemHnbXmqOdmIninu3Vq8zR+SjtOXrE6QXLrf6o8Fiexnzap26ynS1uDl1ltIg94mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\umyar\\Downloads\\BinaryTrees\\BinaryTrees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umyar\\.nuget\\packages\\microsoft.codecoverage\\17.4.1\\microsoft.codecoverage.17.4.1.nupkg.sha512",
+    "C:\\Users\\umyar\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.1\\microsoft.net.test.sdk.17.4.1.nupkg.sha512",
+    "C:\\Users\\umyar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\umyar\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.4.1\\microsoft.testplatform.objectmodel.17.4.1.nupkg.sha512",
+    "C:\\Users\\umyar\\.nuget\\packages\\microsoft.testplatform.testhost\\17.4.1\\microsoft.testplatform.testhost.17.4.1.nupkg.sha512",
+    "C:\\Users\\umyar\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\umyar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\umyar\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\umyar\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\umyar\\.nuget\\packages\\nunitlite\\3.13.3\\nunitlite.3.13.3.nupkg.sha512",
+    "C:\\Users\\umyar\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
